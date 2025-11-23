@@ -1,0 +1,13 @@
+prefix=C:/Users/49152/anaconda3/Scripts/180/refer_base/Library
+exec_prefix=C:/Users/49152/anaconda3/Scripts/180/refer_base/Library
+libdir=C:/Users/49152/anaconda3/Scripts/180/refer_base/Library/lib
+sharedlibdir=C:/Users/49152/anaconda3/Scripts/180/refer_base/Library/lib
+includedir=C:/Users/49152/anaconda3/Scripts/180/refer_base/Library/include
+
+Name: zlib
+Description: zlib compression library
+Version: 1.3.1
+
+Requires:
+Libs: -L${libdir} -L${sharedlibdir} -lz
+Cflags: -I${includedir}
