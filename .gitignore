@@ -1,0 +1,23 @@
+# Environments
+tf_env/
+venv/
+env/
+anaconda3/
+
+# Models
+*.h5
+*.pt
+*.ckpt
+*.pkl
+
+# Data
+data/
+dataset/
+*.zip
+*.csv
+*.jpg
+*.png
+
+# Python
+__pycache__/
+.ipynb_checkpoints/
