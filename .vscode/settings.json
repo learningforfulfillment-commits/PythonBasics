@@ -1,4 +1,5 @@
 {
     "notebook.stickyScroll.enabled": true,
-    "notebook.output.wordWrap": true
+    "notebook.output.wordWrap": true,
+    "git.ignoreLimitWarning": true
 }
