@@ -1,0 +1,33 @@
+6 AM - Hof, Gym, Bath
+7 AM - Tea, LC
+8 AM - Work Task
+9 AM -
+10 AM -
+11 AM -
+12 PM - Cook & Easy German
+1 PM - 
+2 PM - 
+3 PM - Find the distance between friends/connections - LinkedIn System Design - https://www.youtube.com/watch?v=OXLDI8gibPw
+4 PM - System Design of a Delivery System like Zomato - https://www.youtube.com/watch?v=nHh3DnjnPig
+5 PM - System Design of GitHub Code Search - https://www.youtube.com/watch?v=hI4_jVFiqes
+6 PM - Zerodha Stock Broker System Design - https://www.youtube.com/watch?v=DH2-vDPFiE4
+7 PM - ML - End To End Multimodal LLMOPS Project Azure Deployment With Observability And Orchestration Engine - https://www.youtube.com/watch?v=I3CWFDgqvq8
+8 PM - ML - Complete RAG Playlist - https://www.youtube.com/watch?v=-UQ6OZywZ2I&list=PLZoTAELRMXVPC8r1xF68Gksi241DAtMsK
+9 PM - ML - Model Context Protocol(MCP) -https://www.youtube.com/watch?v=FepDo-0DrSo
+10 PM - ML -  Agentic AI With Langgraph - https://www.youtube.com/playlist?list=PLZoTAELRMXVPFd7JdvB-rnTb_5V26NYNO
+ -  Python From Start- Building End To End Gen AI And Agentic AI Projects Skeleton - https://www.youtube.com/watch?v=hKyEqmljNUU&list=PLZoTAELRMXVMyIPDZWWLchwOtH3AFZxRw
+ - Advanced RAG: How Corrective RAG (CRAG) Solves Traditional RAG Problems | CampusX - https://www.youtube.com/watch?v=41XDn81nR5c
+11 PM - Hobby Write Story, Read
+
+
+
+--------------
+PROIRITIES
+--------------
+✅ LC
+✅ SQL
+✅ PYTHON
+✅ ML
+✅ SYSTEM Design
+✅ B1
+‼️Git Commit and Posted note in Linkedin and IG

@@ -1,0 +1,22 @@
+1 PM - 30 Concepts System Design and Architecture - https://www.youtube.com/watch?v=e6CpJHRxjBE&list=PLTrfx5ibNG1pGxfk0oWhXNNzfz-vnPYPY&index=3
+2 PM - YouTube High Level System Design - https://www.youtube.com/watch?v=l3AOubKFB1U 
+3 PM - LC 7 – Reverse Integer, LC 9 – Palindrome Number, LC 231 – Power of Two, LC 326 – Power of Three
+4 PM - LC 342 – Power of Four, LC 202 – Happy Number, LC 258 – Add Digits, LC 628 – Maximum Product of Three Numbers, Patterns Print
+5 PM - SQ 2054 - Consecutive Days, SQ 10172 - Best Selling Item
+6 PM - PYTHON - Print-based Introduction App, Simple Calculator,  Age Category Checker,  Multiplication Table Generator, Grade Calculator
+7 PM - PYTHON -  Even or Odd Analyzer,  Number Guessing Game (Fixed Number),  Temperature Converter, Simple Interest Calculator, CLI Welcome Menu, Pattern
+8 PM - ML - Fraud Detection Using Machine Learning - https://www.youtube.com/watch?v=4Od5_z28iIE&list=PLTsu3dft3CWg69zbIVUQtFSRx_UV80OOg&index=2
+9 PM - B1 Topic, EG, Mock, Vocab
+10 PM - VFS, Commerzbank, ARD, AlFurisan, FinanzPoint
+11 PM - Hobby Write Story, Read
+
+--------------
+PROIRITIES
+--------------
+✅ LC
+✅ SQL
+✅ PYTHON
+✅ ML
+✅ SYSTEM Design
+✅ B1
+‼️Git Commit and Posted note in Linkedin and IG
